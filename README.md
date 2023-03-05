@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F105775659%2Fcreative-coding-explorations&psig=AOvVaw2qtmkW8CY4rFvH4qbwPXDc&ust=1678117061259000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDbw6yPxf0CFQAAAAAdAAAAABBs
-)" width="100"/>
-</div>
+<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 # 💫 About Me:
 🔭 Computer science student based in Cluj-Napoca, Romania<br>
