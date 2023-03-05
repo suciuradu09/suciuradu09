@@ -1,5 +1,3 @@
-<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
-
 # 💫 About Me:
 🔭 Computer science student based in Cluj-Napoca, Romania<br>
 💬 Excited to collaborate with other developers and work on challenging projects
@@ -36,3 +34,5 @@
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/suciuradu09) 
+
+<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
