@@ -35,4 +35,4 @@
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/suciuradu09) 
 
-<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg">
