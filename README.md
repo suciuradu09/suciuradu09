@@ -1,9 +1,10 @@
-# 💫 About Me:
-🔭 Computer science student based in Cluj-Napoca, Romania<br>
-💬 Excited to collaborate with other developers and work on challenging projects
+#  About Me:
+<ul>
+  <li> Computer science student based in Cluj-Napoca, Romania<br>
+  <li> Excited to collaborate with other developers and work on challenging projects
+</ul>
 
-
-# 💻 Used Technologies:
+#  Used Technologies:
 <strong> Backend </strong> <br><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -18,7 +19,7 @@
 <br><strong> Frameworks </strong> <br><br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suciuradu09&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suciuradu09&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
@@ -26,13 +27,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=suciuradu09&icon=5&color=1)](https://visitcount.itsvg.in)
 
-  ## 🌐 Contact me:
+  ## Contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/radu.suciu.33/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/radu.su/?hl=ro) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/radu-suciu-1516861ba/) 
 
 
-  ## 💰 You can help me by Donating
+  ## You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/suciuradu09) 
 
 <img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg">
