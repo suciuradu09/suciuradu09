@@ -20,7 +20,7 @@
 <br><strong> Frameworks </strong> <br><br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
--
+
 [![](https://visitcount.itsvg.in/api?id=suciuradu09&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## Contact me:
